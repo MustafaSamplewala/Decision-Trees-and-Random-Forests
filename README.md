@@ -2,7 +2,7 @@
 
 This project is part of the **AI & ML Internship**, focusing on tree-based models for classification using the **Heart Disease Dataset**.
 
----
+
 
 ## 🔍 Objective
 
@@ -10,7 +10,7 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 - Understand concepts like **overfitting**, **cross-validation**, and **feature importance**.
 - Visualize decision trees and analyze model performance.
 
----
+
 
 ## 📁 Dataset
 
@@ -18,7 +18,7 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 - **File**: `heart.csv`
 - **Target column**: `target` (0 = No disease, 1 = Disease)
 
----
+
 
 ## 🧪 Tools & Libraries
 
@@ -27,7 +27,7 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 - Matplotlib, Seaborn
 - Pandas, NumPy
 
----
+
 
 ## 📌 Tasks Performed
 
@@ -51,7 +51,7 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 ### ✅ 6. Evaluate using Cross-Validation
 - Performed 5-fold cross-validation for both models.
 
----
+
 
 ## 📊 Results Summary
 
@@ -61,7 +61,7 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 | Random Forest    | 98.54%              | 99.71%                     |
 
 
----
+
 
 ## 📷 Visuals
 
@@ -69,6 +69,6 @@ This project is part of the **AI & ML Internship**, focusing on tree-based model
 - 📌 Accuracy vs. Depth Curve
 - 📌 Feature Importance Bar Chart
 
----
+
 
 
